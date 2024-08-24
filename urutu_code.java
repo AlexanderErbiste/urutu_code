@@ -1,16 +1,16 @@
 /**
- * @author Everson Teixeira <falaeverson@gmail.com>
- * @package everson
- * @tel 83 98104-7666
+ * @author Alexander Erbiste <alexander.erbiste@gmail.com>
+ * @package Alexander
+ * @tel 15 99140 0452
  */
 
-package everson;
+package Alexander;
 import robocode.*;
 import java.awt.Color;
 import static robocode.util.Utils.normalRelativeAngleDegrees;
 import robocode.util.*;
 
-public class Crawler extends RateControlRobot {
+public class urutu_code extends RateControlRobot {
     /**
      * run: executado quando o round for iniciado
      */
